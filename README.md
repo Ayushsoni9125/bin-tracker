@@ -29,7 +29,7 @@ Check out the live app: [Bin-Tracker Demo](https://bin-tracker-delta.vercel.app)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/aaditya3301/bin-tracker.git
+   git clone https://github.com/Ayushsoni9125/bin-tracker.git
    cd bin-tracker
    ```
 2. Install dependencies:
@@ -78,15 +78,3 @@ Other important files:
 
 ---
 
-## License
-
-This project currently has no specified license.
-
----
-
-## Contact
-
-- Author: [aaditya3301](https://github.com/aaditya3301)
-- For questions or feedback, open an issue or pull request.
-
----
